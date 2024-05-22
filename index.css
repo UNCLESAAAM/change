@@ -1,0 +1,54 @@
+#main {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #6943FF;
+    margin:  -8px;
+}
+#head{
+    color: white;
+}
+.numberInput{
+    width: 117px;
+    height: 83px;
+    font-size: 40px;
+    margin-bottom: 30px;
+    text-align: center;
+    background-color: #6943FF;
+    border: 1px white solid;
+    border-radius: 10px;
+    color: white;
+
+}
+
+#btn-convert{
+    width: 117px;
+    height: 42px;
+    color: 3D3D3D;
+    border: white 1px solid;
+        margin-bottom: 30px;
+        border-radius: 5px;
+}
+#main2 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background-color: #1F2937;
+    margin: -8px;
+}
+.disply{
+    background-color: #273549;
+    width: 95%;
+    margin: 10px ;
+    text-align: center;
+    color: white;
+    font-weight: lighter;
+}
+#dis-len
+{
+    margin-top: 40px;
+}
+#dis-mass
+{
+    margin-bottom: 40px;
+}
