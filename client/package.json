@@ -1,6 +1,7 @@
 {
   "name": "Scrim-s0qq9djttk",
   "description": "https://v2.scrimba.com/the-frontend-developer-career-path-c0j/~09t",
+  "type": "module",
   "scripts": {
     "start": "vite",
     "dev": "vite",
